@@ -69,3 +69,13 @@ body { overflow-x: hidden; }
 @media (max-width: 480px) {
   .whatsapp-float { right: 15px; bottom: 15px; }
 }
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}

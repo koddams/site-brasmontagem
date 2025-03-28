@@ -1,0 +1,15 @@
+{
+    "css.validate": false,
+    "tailwindCSS.includeLanguages": {
+      "plaintext": "html",
+      "typescript": "javascript",
+      "typescriptreact": "javascriptreact"
+    },
+    "editor.quickSuggestions": {
+      "strings": true
+    },
+    "tailwindCSS.experimental.configFile": "tailwind.config.js",
+    "files.associations": {
+      "*.css": "tailwindcss"
+    }
+  }
